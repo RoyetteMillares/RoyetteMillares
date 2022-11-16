@@ -4,7 +4,7 @@
   <img src="svg/royette.svg" width="1200" alt="royette-official" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -52,7 +52,7 @@
 
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -65,7 +65,7 @@
 </div>
 
 <br>
-<h2 align="center">❤️ Where to find me ❤️</h2>
+<h2 align="center">Where to find me ❤️</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -86,7 +86,7 @@
 
 <br>
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/royette-quotes.svg" width="846" height="150" alt="trungquandev-official" />
