@@ -65,7 +65,7 @@
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">❤️ Where to find me ❤️</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
