@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 <!-- Royette B. Millares -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="royette-official" />
+  <img src="svg/royette.svg" width="1200" alt="royette-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -47,6 +47,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=shopify&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
+
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -88,7 +91,7 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/royette-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
 
 =======
