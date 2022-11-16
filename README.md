@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- Royette B. Millares -->
 <a href="#" target="_blank">
   <img src="svg/royette.svg" width="1200" alt="royette-official" />
